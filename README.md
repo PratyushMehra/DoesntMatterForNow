@@ -15,7 +15,7 @@ Geneal format of the web app
           \ /
       |login|sign up|     (also forgot password)
       
-      Three Different views depending on weather they are from FDA, Pharma or doc
+      Three Different views depending on whether they are from FDA, Pharma or doc
       
       **Doc view** 
       _____________________________________________
